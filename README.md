@@ -1,4 +1,4 @@
-# Just a irregular regular Student for Business Informatics
+# Student for Business Informatics
 My name is Alex, I'm 22 years old and live near Frankfurt am Main in Germany.    
 I did an apprenticeship as technology officer and I'm currently studying Business Informatics in a dual way.  
 The company I work for is Linde Material Handling/ KION Group AG, the university is Duale Hochschule Baden Württemberg Mosbach.   
